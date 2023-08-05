@@ -29,3 +29,9 @@ All about AI Vector Database you need are here
 
 ## Useful Resources
 1. [What is a Vector Database?](https://archive.pinecone.io/learn/vector-database/) by Roie Schwaber-Cohen, Pinecone
+
+
+
+# Reference
+
+1. [Vectorized Data Computing](https://pltrees.github.io/publication/VecDataComp.pdf) — Vector databases, privacy, LLM, big models Ping Li 
