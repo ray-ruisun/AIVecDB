@@ -1,7 +1,7 @@
 # AIVecDB
 All about AI Vector Database you need are here
 
-
+**For more details please refer to:** [Ray's Notion Page](https://ruisun.notion.site/Vector-Database-For-AI-5a976c2d35b645c8ab9fe2365afba75a?pvs=4)
 
 ## About Vector Database for AI
 
@@ -10,6 +10,10 @@ All about AI Vector Database you need are here
 
 
 ## R&D
+
+### Papers
+
+
 
 
 
